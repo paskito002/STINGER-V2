@@ -86,6 +86,8 @@ yarn install
 npm start
 ```
 
+## IF YOU NEED THE STINGER V2 ANTI-BUG SCRIPT, ```CONTACT ME ON WHATSAPP```
+
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
