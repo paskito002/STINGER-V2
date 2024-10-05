@@ -17,12 +17,12 @@ global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
 global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
+global.ownername = 'HACKER LORD//owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +2348187637779'
+global.author = 'HACKER LORD \n\nContact: +2347012224957'
 
 //console view/theme
 global.themeemoji = '🪀'
